@@ -1,3 +1,6 @@
+#please note that the dataset in the code is modified.
+
+
 •	Context: 
 Overweight and obesity are emerging health problems in India not only in cities but now increasing rapidly in rural areas as well. 
 Overweight and obesity kills more people than underweight and act as a predisposing factor for non-communicable diseases. 
@@ -14,3 +17,4 @@ Currently the model has database of around 4000 disease and 17 symptoms of each 
 A personalized AI based health advisor which suggest & predict probable disease one can suffer in near future based on today’s health conditions and BMI. 
 It can be used by common people, health care centers and hospitals to create awareness & assessment of patients in IPD & OPD.Health advisor would be able to identify the disease and would suggest precautions to be taken in these diseases state.
 Which can be prevent by setting realistic goals for Management and prevention of Overweight & obesity by changing in lifestyle, eating habits, and regular physical activity.
+
